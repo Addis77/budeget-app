@@ -1,3 +1,3 @@
 # budeget-app
 
-This budeget app track spending and categorize expenses so you can see where your money is going.
+This budeget app track our income, expenses, spending and categorize expenses so you can see where your money is going.
